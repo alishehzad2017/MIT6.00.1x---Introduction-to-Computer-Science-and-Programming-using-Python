@@ -1,5 +1,5 @@
 Finger exercise 1:
-Computers can be annoyingly literal. If you don’t tell them exactly what you want
+Computers can be annoyingly literal. If you donâ€™t tell them exactly what you want
 them to do, they are likely to do the wrong thing. Try writing an algorithm for driving between two
 destinations. Write it the way you would for a person, and then imagine what would happen if that
 person were as stupid as a computer, and executed the algorithm exactly as written. How many traffic
@@ -11,7 +11,7 @@ Algorithm for reaching Department of Physics from The Great Dome (for a friend)
 2.	Turn right and follow the road for 160 meters.
 3.	Turn right again and follow the road for 100 meters.
 4.	Turn left and follow the road for another 160 meters.
-5.	Turn right and you’re now on Ames St.
+5.	Turn right and youâ€™re now on Ames St.
 6.	Make a final right turn and drive another 90 meters. 
 7.	Destination is now on your right.
 
