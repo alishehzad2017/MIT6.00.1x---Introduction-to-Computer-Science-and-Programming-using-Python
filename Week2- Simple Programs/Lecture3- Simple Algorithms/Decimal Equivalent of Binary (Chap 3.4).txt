@@ -1,2 +1,4 @@
+@author: ali_shah_shehzad
+
 Finger exercise 9: What is the decimal equivalent of the binary number 10011?
 Ans: 1*16 + 0*8 + 0*4 + 1*2 + 1*1 = 19
