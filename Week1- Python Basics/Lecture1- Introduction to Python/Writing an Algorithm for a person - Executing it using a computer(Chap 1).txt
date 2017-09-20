@@ -1,3 +1,5 @@
+@author: ali_shah_shehzad
+
 Finger exercise 1:
 Computers can be annoyingly literal. If you don’t tell them exactly what you want
 them to do, they are likely to do the wrong thing. Try writing an algorithm for driving between two
