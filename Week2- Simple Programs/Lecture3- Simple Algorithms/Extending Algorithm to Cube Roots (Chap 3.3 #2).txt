@@ -1,0 +1,5 @@
+Finger exercise 8: What would have to be changed to make the code in Figure 3.4 work for finding an approximation to the cube root of both negative 
+and positive numbers? (Hint: think about changing low to ensure that the answer lies within the region being searched.)
+
+1. Change “**2” everywhere in the code to “**3”.
+2. First check if x is positive or negative. If x is negative set high = 0 and low = x. If x is positive, follow the same procedure as with finding square roots.
