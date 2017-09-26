@@ -1,0 +1,8 @@
+@author: ali_shah_shehzad
+
+Finger exercise 12: When the implementation of fib in Figure 4.7 is used to compute fib(5), how many times does it compute the value of fib(2) on the way to 
+computing fib(5)?
+
+Answer: In the definition of factR, add the following command between the else clause, and return fib(n-1) + fib(n-2) statement.
+print("Computing fib of", n-1, "and", n-2)
+Run the program. You will now see that fib(2) is computed 3 times and hopefully understand how.
