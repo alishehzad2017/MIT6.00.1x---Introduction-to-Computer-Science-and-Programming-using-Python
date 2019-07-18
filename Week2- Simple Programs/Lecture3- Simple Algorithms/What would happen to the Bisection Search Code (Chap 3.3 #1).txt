@@ -1,4 +1,4 @@
-@author: ali_shah_shehzad
+@author: ali_shehzad
 
 Finger exercise 7: What would the code in Figure 3.4 do if the statement x = 25 were replaced by x = -25?
 Ans: The code would get stuck in an infinite loop. The ans would get closer and closer to 0.
