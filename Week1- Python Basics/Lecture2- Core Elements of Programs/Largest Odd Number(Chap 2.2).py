@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 15 03:10:48 2017
 
-@author: ali_shah_shehzad
+@author: ali_shehzad
 """
 
 """Finger exercise 2: 
