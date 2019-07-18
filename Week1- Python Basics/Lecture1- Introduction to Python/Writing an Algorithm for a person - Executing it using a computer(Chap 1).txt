@@ -1,4 +1,4 @@
-@author: ali_shah_shehzad
+@author: ali_shehzad
 
 Finger exercise 1:
 Computers can be annoyingly literal. If you don’t tell them exactly what you want
