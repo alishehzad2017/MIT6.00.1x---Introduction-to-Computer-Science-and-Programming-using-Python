@@ -1,7 +1,9 @@
+@author: ali_shehzad
+
 Finger Exercise 15: Why does the code use mid+1 rather than mid in the second recursive call?
 
-•To bring the decrementing function closer to 0 as ‘mid’ has already been searched. 
-•If we do not add 1 to mid when before passing it as a parameter to ‘low’, the function might run forever in some cases. 
+â€¢To bring the decrementing function closer to 0 as â€˜midâ€™ has already been searched. 
+â€¢If we do not add 1 to mid when before passing it as a parameter to â€˜lowâ€™, the function might run forever in some cases. 
  Try simulating bSearch(L, 4, 3, 4) and see for yourself or look below.
-•Every time bSearch is called with these arguments; the value ‘3’ gets assigned to ‘mid’ because of integer division.
+â€¢Every time bSearch is called with these arguments; the value â€˜3â€™ gets assigned to â€˜midâ€™ because of integer division.
  Now mid has the same value as low and this value is passed again and again to the recursive function bSearch making it interminable.
