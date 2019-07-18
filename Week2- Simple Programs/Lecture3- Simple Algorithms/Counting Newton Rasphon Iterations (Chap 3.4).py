@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: ali_shah_shehzad
+@author: ali_shehzad
 """
 
 #Newton-Rasphon for square root
