@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: ali_shah_shehzad
+@author: ali_shehzad
 """
 
 """Finger Exercise 13: Implement a function that satisfies the specification."""
